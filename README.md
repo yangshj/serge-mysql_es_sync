@@ -1,4 +1,4 @@
-# canal_mysql_elasticsearch_sync 支持请star✨
+# serge-mysql_es_sync 
 
 **canal于v1.1.2版本后，已支持自动同步到Elasticsearch。赞canal！[canal传送门](https://github.com/alibaba/canal)**
 
