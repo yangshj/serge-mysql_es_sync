@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.star.sync</groupId>
-    <artifactId>canal-mysql-elasticsearch-sync</artifactId>
+    <artifactId>serge-mysql-es-sync</artifactId>
     <version>1.0.4</version>
     <packaging>jar</packaging>
 
-    <name>canal-mysql-elasticsearch-sync</name>
+    <name>serge-mysql-es-sync</name>
     <description>基于canal的mysql和elasticsearch实时同步方案，支持增量同步和全量同步</description>
 
     <parent>
