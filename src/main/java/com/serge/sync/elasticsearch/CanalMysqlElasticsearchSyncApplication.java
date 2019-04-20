@@ -13,11 +13,14 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @SpringBootApplication
 @EnableScheduling
 @EnableTransactionManagement
-@MapperScan("com.star.sync.elasticsearch.dao")
+@MapperScan("com.serge.sync.elasticsearch.dao")
 public class CanalMysqlElasticsearchSyncApplication {
     public static void main(String[] args) {
         SpringApplication.run(CanalMysqlElasticsearchSyncApplication.class, args);
         // http://192.168.2.185:9200/test_info/_search?q=*&pretty 查询所有数据
+        // http://192.168.2.185:9200/test_info3/_search?q=*&pretty&from=1&size=30
         // http://192.168.2.185:9200/_cat/indices?v 查询当前es集群中所有的indices
+        // 启动成功 http://localhost:8828/index.html
+        //
     }
 }

@@ -28,7 +28,8 @@ public class SyncController {
 
     /**
      * 通过库名和表名全量同步数据
-     *
+     * http://localhost:8828/sync/byTable?database=test_info&table=user&stepSize=500
+     * http://localhost:8828/sync/byTable?database=test_info&table=location&stepSize=500000
      * @param request 请求参数
      */
     @RequestMapping("/byTable")
