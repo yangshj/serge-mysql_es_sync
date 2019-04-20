@@ -14,7 +14,6 @@ import org.springframework.stereotype.Component;
 import java.net.InetAddress;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-25 17:32:00
  */

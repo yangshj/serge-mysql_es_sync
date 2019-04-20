@@ -4,7 +4,6 @@ import com.alibaba.otter.canal.protocol.CanalEntry.Entry;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-26 22:22:00
  */

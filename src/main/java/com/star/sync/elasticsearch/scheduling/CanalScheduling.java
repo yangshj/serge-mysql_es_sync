@@ -20,7 +20,6 @@ import javax.annotation.Resource;
 import java.util.List;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-26 22:44:00
  */

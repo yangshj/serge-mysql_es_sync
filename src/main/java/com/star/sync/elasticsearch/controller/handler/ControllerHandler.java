@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-31 20:55:00
  */

@@ -7,7 +7,6 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-25 17:26:00
  */

@@ -16,7 +16,6 @@ import java.util.Map;
 import static org.junit.Assert.*;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-09-01 15:01:00
  */

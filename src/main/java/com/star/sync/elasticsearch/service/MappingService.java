@@ -8,7 +8,6 @@ import java.util.Map;
 /**
  * 配置文件映射服务
  *
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-26 22:54:00
  */

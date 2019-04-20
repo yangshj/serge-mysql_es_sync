@@ -17,7 +17,6 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0.0
  * @since 2018-05-21 23:23:00
  */

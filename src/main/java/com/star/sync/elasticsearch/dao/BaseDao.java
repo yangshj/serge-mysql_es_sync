@@ -7,7 +7,6 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-29 10:17:00
  */

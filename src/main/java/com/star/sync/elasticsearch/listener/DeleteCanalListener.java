@@ -15,7 +15,6 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-26 22:33:00
  */

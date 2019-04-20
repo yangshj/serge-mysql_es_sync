@@ -3,7 +3,6 @@ package com.star.sync.elasticsearch.model.response;
 import com.star.sync.elasticsearch.util.JsonUtil;
 
 /**
- * @author <a href="mailto:wangchao.star@gmail.com">wangchao</a>
  * @version 1.0
  * @since 2017-08-31 17:58:00
  */
